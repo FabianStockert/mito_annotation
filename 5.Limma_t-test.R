@@ -1,4 +1,4 @@
-# modify the column numbers in lines 13 and 14 to reflect the specific columns you wish to compare (count)
+# modify the column numbers in lines 13 and 14 to reflect the specific columns you wish to compare (count), not only heavy or light also condition1 over condition2..
 # In line 31, update the number of replicates to match the number of input columns specified in lines 13 and 14.
 
 # Load the necessary libraries
